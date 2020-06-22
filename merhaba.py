@@ -1,0 +1,5 @@
+print("\nmerhaba")
+isim = input("adınız ne: ")
+print("\nmerhaba",isim)
+yas = input("yaşınız kaç?: ")
+print("\nAaaa", isim,"sen", yas, "yaşındasın.")
